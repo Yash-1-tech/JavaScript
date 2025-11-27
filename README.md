@@ -1,4 +1,5 @@
 # JavaScript
+[brave Chat about form](https://search.brave.com/ask?q=accessing+dictionary+in+js&source=quick-answer-followup&quickAnswerKey=8eb241ce612d9322dee135&quickAnswerQuery=accessing+dictionary+in+js&conversation=086d523c5bcfb9249054e43bbc14c1b15062#qHz0ofqDKvap6LL8cH0aXVl0cGeTUULCxcSR8mNESqQ)
 ### Index
 1. Constructors, Objectr and deconstructors
 2. Pointer Compression
